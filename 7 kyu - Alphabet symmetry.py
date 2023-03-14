@@ -9,6 +9,7 @@ If you like this Kata, please try:
 Last digit symmetry
 Alternate capitalization
 '''
+
 def solve(arr):
     alpha = "abcdefghijklmnopqrstuvwxyz"
     result = []
